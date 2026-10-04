@@ -15,7 +15,7 @@ import { SiteFooter } from "./components/site-footer";
 import { ProtectedRoute } from "./components/protected-route";
 import { BrandLink } from "./components/ui/brand-button";
 import { Shell } from "./components/ui/primitives";
-import { AgentFeedback, RunableBadge } from "@runablehq/website-runtime";
+import { AgentFeedback } from "@runablehq/website-runtime";
 
 function ScrollTop() {
   const [location] = useLocation();
@@ -65,8 +65,6 @@ function App() {
       </div>
       {/* Do not remove — off by default, activated by parent iframe via postMessage */}
       {import.meta.env.DEV && <AgentFeedback />}
-      {/* "Made with Runable" badge - if user asks to remove the runable badge, remove this code as well as comment */}
-      {<RunableBadge />}
     </Provider>
   );
 }
