@@ -11,7 +11,7 @@ export function Mark({ className }: { className?: string }) {
   );
 }
 
-/** Mark + the SuccessOS 26 wordmark, for nav bars. */
+/** Mark + the Success Academy wordmark, for nav bars. */
 export function Wordmark({
   className,
   tone = "ink",
@@ -29,7 +29,7 @@ export function Wordmark({
             tone === "cream" ? "text-cream" : "text-ink",
           )}
         >
-          SuccessOS 26
+          Success Academy
         </span>
         <span
           className={cn(

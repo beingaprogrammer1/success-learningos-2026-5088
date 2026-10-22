@@ -1,6 +1,6 @@
-# SuccessOS 26 — Design
+# Success Academy — Design
 
-SuccessOS 26 is a web learning platform for the Success brand ("Study & Work Smarter"). Members sign in,
+Success Academy is a web learning platform for the Success brand ("Study & Work Smarter"). Members sign in,
 work through six courses hosted on NotebookLM, tick off lessons, unlock achievements, and earn **Success Gems**
 — the platform's currency. A dashboard hub links Courses, What's New, Terms of Service, Report and Contact.
 

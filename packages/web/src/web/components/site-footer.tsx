@@ -48,7 +48,7 @@ export function SiteFooter() {
           <div>
             <ScriptLogo variant="primary" className="h-28 w-auto border-cream/30" />
             <p className="mt-5 max-w-xs text-sm text-cream/65">
-              SuccessOS 26 is a six-course learning system for studying smarter, working better and
+              Success Academy is a six-course learning system for studying smarter, working better and
               handling people and money with a straight spine.
             </p>
           </div>
@@ -96,7 +96,7 @@ export function SiteFooter() {
         </div>
 
         <div className="mt-12 flex flex-col gap-3 border-t-2 border-cream/15 pt-6 text-[12.5px] text-cream/50 sm:flex-row sm:items-center sm:justify-between">
-          <p>© {new Date().getFullYear()} SuccessOS 26. Study &amp; work smarter.</p>
+          <p>© {new Date().getFullYear()} Success Academy. Study &amp; work smarter.</p>
           <p>
             Success Gems are a progress reward with no monetary value. See the{" "}
             <Link to="/terms" className="underline decoration-gem/60 hover:text-gem">

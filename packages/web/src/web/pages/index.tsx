@@ -59,7 +59,7 @@ export default function IndexPage() {
               and taught.
             </h1>
             <p className="mt-7 max-w-lg text-[16px] text-muted-ink">
-              SuccessOS 26 is a six-course system covering studying, empathy, life advice,
+              Success Academy is a six-course system covering studying, empathy, life advice,
               presenting, money and leadership. Thirty-six lessons, each paying out Success Gems
               as you go.
             </p>

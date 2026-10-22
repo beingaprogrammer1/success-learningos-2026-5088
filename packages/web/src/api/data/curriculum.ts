@@ -1,5 +1,5 @@
 /**
- * Single source of truth for SuccessOS 26 course content, achievements and the changelog.
+ * Single source of truth for Success Academy course content, achievements and the changelog.
  * Lessons are static; only a member's progress and gem ledger live in the database.
  */
 
@@ -31,7 +31,7 @@ export const COURSES: Course[] = [
     title: "Studying",
     tagline: "Learn faster, forget less.",
     description:
-      "The study system underneath everything else on SuccessOS 26. You will build a repeatable loop for reading, recalling and reviewing so the material actually sticks past exam week.",
+      "The study system underneath everything else on Success Academy. You will build a repeatable loop for reading, recalling and reviewing so the material actually sticks past exam week.",
     notebookUrl: "https://notebook.google.com/notebook/75ed83b1-5901-4181-8b56-13f06144947d",
     level: "Foundation",
     accent: "navy",
@@ -412,7 +412,7 @@ export const ACHIEVEMENTS: Achievement[] = [
   {
     id: "first-step",
     title: "First Step",
-    description: "Complete your very first lesson on SuccessOS 26.",
+    description: "Complete your very first lesson on Success Academy.",
     gems: 25,
     tier: "Bronze",
     rule: { type: "firstLesson" },
@@ -476,7 +476,7 @@ export const ACHIEVEMENTS: Achievement[] = [
   {
     id: "the-full-six",
     title: "The Full Six",
-    description: "Complete all six SuccessOS 26 courses. The highest honour on the platform.",
+    description: "Complete all six Success Academy courses. The highest honour on the platform.",
     gems: 500,
     tier: "Legend",
     rule: { type: "courses", count: 6 },
@@ -537,7 +537,7 @@ export const CHANGELOG: ChangelogEntry[] = [
   {
     version: "v1.0",
     date: "2026-07-30",
-    title: "SuccessOS 26 opens",
+    title: "Success Academy opens",
     tag: "Launch",
     notes: [
       "Studying, Empathy and Life Advice launched as the founding three courses.",

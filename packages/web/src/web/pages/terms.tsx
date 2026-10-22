@@ -46,7 +46,7 @@ export default function TermsPage() {
             <div>
               <h2 className="text-[17px] uppercase">A note on these terms</h2>
               <p className="mt-2 text-[13.5px] text-muted-ink">
-                These are drafted standard terms provided as a starting point for SuccessOS 26. They
+                These are drafted standard terms provided as a starting point for Success Academy. They
                 are not legal advice — have a qualified lawyer review them before relying on them
                 commercially.
               </p>

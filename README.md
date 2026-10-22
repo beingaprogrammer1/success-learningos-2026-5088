@@ -1,4 +1,4 @@
-# SuccessOS 26 — web only
+# Success Academy — web only
 
 This repository contains **only `packages/web`**. No mobile, tablet or Electron desktop application is included. The website itself remains responsive on phones and tablets.
 

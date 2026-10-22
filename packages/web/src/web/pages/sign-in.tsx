@@ -223,7 +223,7 @@ export default function SignInPage() {
           </form>
 
           <p className="mt-6 text-center text-[12px] leading-relaxed text-muted-ink">
-            By continuing you agree to the SuccessOS 26 Terms of Service. Success Gems are a
+            By continuing you agree to the Success Academy Terms of Service. Success Gems are a
             progress reward and have no monetary value.
           </p>
         </Panel>
